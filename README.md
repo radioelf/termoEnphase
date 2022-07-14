@@ -1,2 +1,2 @@
 # termoEnphase
-Control de tremo eléctrico según excedentes de sistema fotovoltaico con Enphase
+Control de termo eléctrico según excedentes de sistema fotovoltaico con Enphase
